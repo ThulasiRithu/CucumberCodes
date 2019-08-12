@@ -10,5 +10,5 @@ Feature: Title of your feature
       | address | Chennai           |
       | phno    |        9790956304 |
     And User click the add tariff
-    |customerID|
+      | customerID |
     Then User validate the CustID
